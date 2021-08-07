@@ -1,6 +1,6 @@
 body {
 
-  background: url("/../pics/background.jpg") no-repeat top fixed;
+  background: url("root/pics/background.jpg") no-repeat top fixed;
   background-size: cover;
   position: relative;
 
