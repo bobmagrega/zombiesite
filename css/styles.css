@@ -1,0 +1,67 @@
+body {
+
+  background: url("/../Users/prosh/YandexDisk/Помойка/Web%20Development/zombie%20site/pics/background.jpg") no-repeat top fixed;
+  background-size: cover;
+  position: relative;
+
+}
+
+h1 {
+  text-align: center;
+}
+.story-synopsis {
+  color: #F8EDE3;
+  text-align: center;
+  margin: auto;
+  font-size: 24px;
+  background-color: #0d255570;
+  width: 50%;
+  padding: 1px 30px;
+  text-align: justify;
+}
+
+.header {
+  height: 50px;
+  display: block;
+  color: #F8EDE3;
+  position: relative;
+  font-size: 24px;
+
+}
+
+.footer {
+  color: #F8EDE3;
+  text-align: center;
+  vertical-align: middle;
+}
+ul {
+text-align: right;
+list-style-type: none;
+display: block;
+
+}
+
+li {
+  display: inline-block;
+  position: relative;
+  margin-right: 15px;
+
+}
+
+.trailer-video {
+display: flex;
+justify-content: center;
+align-items: center;
+padding: 30px;
+
+}
+img {
+  width: 4%;
+  height: auto;
+  vertical-align: middle;
+}
+
+.footer-paragraph{
+  display: inline-block;
+  padding-right: 10px;
+}
